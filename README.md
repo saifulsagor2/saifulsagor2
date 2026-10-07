@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Building Ideas, Projects, and Impact.png" alt="Saiful Islam Sagor - Full-Stack Developer" width="100%">
+</p>
+
 <div align="center">
 
 # Hi there, I'm Saiful Islam Sagor 👋
