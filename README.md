@@ -1,10 +1,17 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 # Hi there, I'm Saiful Islam Sagor 👋
 
-### CSE Student | Full-Stack Developer | C/C++ Problem Solver | Founder @ Addhayan Academy
+### Full-Stack Developer | C/C++ Problem Solver | Founder @ Addhayan Academy
+
+<p>
+  <a href="https://leetcode.com/u/SaifulSagor/">
+    <img src="https://img.shields.io/badge/LeetCode-SaifulSagor-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/saifulsagor">
+    <img src="https://img.shields.io/badge/Codeforces-saifulsagor-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -12,40 +19,41 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who enjoys building web applications and solving programming problems.
+I'm a passionate developer who enjoys building modern web applications and solving programming problems using C/C++.
 
-- 💻 Experienced in **C/C++ and Problem Solving**
-- 🌐 Building modern web applications with **Next.js, React & TypeScript**
-- 🧠 Solved programming problems across multiple competitive programming platforms
-- 🚀 Currently improving my **Data Structures & Algorithms** skills
-- 🏗️ Currently working on web development projects
+- 💻 Focused on **Full-Stack Web Development**
+- 🧠 Passionate about **Data Structures, Algorithms & Problem Solving**
+- ⚡ Experienced with **C/C++**
+- 🌐 Building modern applications with **Next.js, React & TypeScript**
+- 🏆 Solving problems across **LeetCode, Codeforces and other platforms**
+- 🚀 Currently improving my **DSA and Full-Stack Development** skills
+- 🌱 Exploring **Next.js, TypeScript & modern web technologies**
 - 👨‍🏫 Founder & ICT Instructor at **Addhayan Academy**
-- 🌱 Currently exploring **Next.js, TypeScript & Full-Stack Development**
 - 🤝 Open to collaborating on interesting software projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" />
 </p>
 
-### Frontend
+### 🌐 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,django,mysql" />
 </p>
 
-### Tools
+### 🔧 Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
@@ -55,57 +63,55 @@ I'm a passionate developer who enjoys building web applications and solving prog
 
 ## 🧠 Problem Solving
 
-I regularly practice **Data Structures, Algorithms and Competitive Programming** using C/C++.
+I regularly practice **Data Structures, Algorithms and Competitive Programming**, primarily using **C/C++**.
 
-### Topics I Practice
+### 🏆 Problem Solving Platforms
+
+| Platform | Profile | Progress |
+|----------|---------|----------|
+| 🟠 **LeetCode** | [SaifulSagor](https://leetcode.com/u/SaifulSagor/) | 31 Problems Solved |
+| 🔵 **Codeforces** | [saifulsagor](https://codeforces.com/profile/saifulsagor) | 238 Problems Solved |
+| 🔵 **Codeforces Rating** | [View Profile](https://codeforces.com/profile/saifulsagor) | 1010 |
+
+### 📚 Topics I Practice
 
 - Arrays & Strings
 - Prefix Sum
 - Binary Search
-- Linked List
+- Linked Lists
 - Stack & Queue
 - Binary Tree & BST
 - Heap
 - C++ STL
 - Sorting & Searching
 - Time Complexity
-- Problem Solving
-
-### Platforms
-
-<p align="left">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+- Data Structures & Algorithms
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 💪 FitLog
 
-A responsive fitness planning web application built with modern web technologies.
+**FitLog** is a modern fitness planning and workout management web application designed to help users explore exercises, create workout plans and manage their training.
 
-**Tech:** Next.js · TypeScript · Tailwind CSS
+### ✨ Key Features
 
-🔗 **Live Demo:** Coming Soon
+- 🏋️ Workout Library
+- 📋 Personalized Workout Plans
+- 💪 Exercise Information
+- 🔥 Calories & Workout Details
+- ⭐ Exercise Ratings
+- 📱 Responsive Design
+- ⚡ Modern & User-Friendly Interface
 
----
+### 🛠️ Technologies
 
-### 🧰 Dev Stack Builder
+`Next.js` · `TypeScript` · `Tailwind CSS`
 
-A developer-focused project built to explore modern frontend development and useful development workflows.
+### 🌐 Live Demo
 
-**Tech:** React · JavaScript · Tailwind CSS
-
-🔗 **Live Demo:** Coming Soon
+👉 https://gym-based-project-waoa.vercel.app/
 
 ---
 
@@ -118,7 +124,7 @@ A developer-focused project built to explore modern frontend development and use
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saifulsagor2&theme=tokyonight&hide_border=true"/>
@@ -138,12 +144,20 @@ A developer-focused project built to explore modern frontend development and use
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://leetcode.com/u/SaifulSagor/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/saifulsagor">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -152,8 +166,8 @@ A developer-focused project built to explore modern frontend development and use
 
 <div align="center">
 
-### 💡 "Keep learning. Keep building. Keep solving."
+### 💡 Keep Learning • Keep Building • Keep Solving
 
-⭐ If you find my projects useful, feel free to star them!
+⭐ Feel free to explore my repositories and projects.
 
 </div>
